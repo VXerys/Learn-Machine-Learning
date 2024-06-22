@@ -1,0 +1,838 @@
+,Entity,Code,Day,Training computation (petaFLOP),Domain
+0,(ensemble): AWD-LSTM-DOC (fin) × 5 (WT2),,2018-08-30,693.0,Language
+1,2-layer-LSTM+Deep-Gradient-Compression,,2017-12-05,1.34,Language
+2,3D city reconstruction,,2009-09-29,,Other
+3,4 layer QRNN (h=2500),,2018-03-22,240.00002,Language
+4,6-Act Tether,,2021-08-03,,Other
+5,6-layer MLP (MNIST),,2010-03-01,0.130788,Vision
+6,A3C FF hs,,2016-02-04,,Games
+7,ADALINE,,1960-06-30,9.9e-12,Vision
+8,ADAM (CIFAR-10),,2014-12-22,60.48,Vision
+9,ADM,,2021-05-11,6200000.0,Image generation
+10,ALBERT,,2019-09-26,,Language
+11,ALBERT-xxlarge,,2020-02-09,2390000.0,Language
+12,ALIGN,,2021-06-11,25986700.0,Multiple domains
+13,ALM 1.0,,2022-11-28,,Language
+14,ALVINN,,1989-12-01,1.0548576e-05,Other
+15,AMDIM,,2019-06-03,,Multiple domains
+16,AR-LDM,,2022-11-20,510000.0,Image generation
+17,ASE+ACE,,1983-09-01,3.24e-07,Other
+18,ATLAS,,2020-05-02,38257.92,Language
+19,AWD-LSTM,,2017-07-18,,Language
+20,AWD-LSTM + MoS + Partial Shuffled,,2019-06-10,328.0,Language
+21,AWD-LSTM - 3-layer LSTM (tied) + continuous cache pointer (WT2),,2017-08-07,309.00003,Language
+22,AWD-LSTM+WT+Cache+IOG (WT2),,2017-09-26,3.3100002,Language
+23,AWD-LSTM-DRILL + dynamic evaluation† (WT2),,2019-05-14,424.0,Language
+24,"AWD-LSTM-MoS + dynamic evaluation (WT2, 2017)",,2017-11-10,437.0,Language
+25,"AWD-LSTM-MoS + dynamic evaluation (WT2, 2018)",,2018-09-18,,Language
+26,AWD-LSTM-MoS+PDR + dynamic evaluation (WT2),,2018-08-14,,Language
+27,AbLang,,2022-01-22,,Biology
+28,AdaRNN,,2014-06-01,,Language
+29,Adaptive Input Transformer + RD,,2021-06-28,82000.0,Language
+30,Adaptive Inputs + LayerDrop,,2019-09-25,,Language
+31,Adaptive Subgrad,,2011-10-03,,Other
+32,Advantage Learning,,2015-12-15,,Games
+33,Adversarial Joint Adaptation Network (ResNet),,2017-08-17,,Vision
+34,Agent57,,2020-03-30,,Games
+35,Agile Soccer Robot,,2023-04-26,,Other
+36,AlexNet,,2012-09-30,470.0,Vision
+37,AlexaTM 20B,,2022-08-02,204374020.0,Language
+38,AlphaCode,,2022-02-02,156816000.0,Language
+39,AlphaFold,,2020-01-15,100000.0,Biology
+40,AlphaFold 2,,2020-11-30,2990000.0,Biology
+41,AlphaFold-Multimer,,2021-10-04,4350000.0,Biology
+42,AlphaGeometry,,2024-01-17,,Other
+43,AlphaGo Fan,,2015-10-01,380000.03,Games
+44,AlphaGo Lee,,2016-01-27,1900000.0,Games
+45,AlphaGo Master,,2017-01-01,200010000.0,Games
+46,AlphaGo Zero,,2017-10-18,341000000.0,Games
+47,AlphaMissense,,2023-09-22,,Biology
+48,AlphaStar,,2019-10-30,59250000.0,Games
+49,AlphaX-1,,2019-10-02,7600.0,Vision
+50,AlphaZero,,2017-12-05,36679270.0,Games
+51,AltCLIP,,2022-11-12,,Multiple domains
+52,AmoebaNet-A (F=190),,2018-02-05,,Vision
+53,AmoebaNet-A (F=448),,2018-02-05,385296.9,Vision
+54,Ankh_base,,2023-01-16,2600000.2,Biology
+55,Ankh_large,,2023-01-16,6500000.0,Biology
+56,AudioGen,,2023-03-05,7200000.0,Other
+57,AudioLM,,2023-07-26,3900.0,Other
+58,Aya,,2024-02-12,,Language
+59,BART-large,,2019-10-29,,Language
+60,BASIC-L,,2021-11-19,41200000.0,Vision
+61,BASIC-L + Lion,,2023-02-13,,Vision
+62,BEIT-3,,2022-08-22,70000.0,Multiple domains
+63,BERT-Large,,2018-10-11,285000.0,Language
+64,BERT-Large-CAS (PTB+WT2+WT103),,2019-04-20,521000.03,Language
+65,BERT-RBP,,2022-04-07,140000.0,Biology
+66,BIDAF,,2016-11-05,3468.6145,Language
+67,BLIP-2 (Q-Former),,2023-01-30,1200000.0,Multiple domains
+68,BLOOM-176B,,2022-11-08,577000000.0,Language
+69,BLOOMZ-176B,,2022-11-03,,Language
+70,BLSTM for handwriting (1),,2007-09-23,,Vision
+71,BLSTM for handwriting (2),,2007-12-03,,Vision
+72,BLUUMI,,2023-11-03,,Language
+73,BOXES,,1968-07-01,,Games
+74,BPE,,2015-08-31,,Language
+75,BPL,,2015-12-11,,Image generation
+76,Back-propagation,,1986-10-01,1.24416e-07,Other
+77,Base LM + kNN LM + Continuous Cache,,2019-11-01,7300.0005,Language
+78,BatchNorm,,2015-06-15,,Other
+79,Bayesian automated hyperparameter tuning,,2012-12-02,,Other
+80,BellKor 2007,,2009-09-21,,Other
+81,BellKor 2008,,2009-08-01,,Other
+82,BellKor 2009,,2009-08-01,,Other
+83,BiLSTM for Speech,,2005-08-01,0.024124576,Speech
+84,Bidirectional RNN,,1997-11-01,,Speech
+85,Big Transfer (BiT-L),,2019-12-24,,Vision
+86,Big Transformer for Back-Translation,,2018-08-28,108084.33,Language
+87,Big-Little Net,,2018-07-10,246.048,Vision
+88,Big-Little Net (speech),,2018-07-10,429.00482,Speech
+89,BigBiGAN,,2019-07-04,,Multiple domains
+90,BigChaos 2008,,2008-11-25,,Other
+91,BigChaos OptiBlend,,2009-08-01,,Other
+92,BigGAN-deep 512x512,,2018-09-28,1800000.0,Image generation
+93,BigSSL,,2021-01-10,,Speech
+94,Binarized Neural Network (MNIST),,2016-03-17,,Vision
+95,BlenderBot 3,,2022-08-10,430000030.0,Language
+96,BloombergGPT,,2023-03-30,236000020.0,Language
+97,Boss (DARPA Urban Challenge),,2008-07-23,,Other
+98,ByT5-XXL,,2021-05-28,81000000.0,Language
+99,CICERO,,2022-11-22,,Games
+100,CLIP (ResNet-50),,2021-01-05,,Multiple domains
+101,CLIP (ViT L/14@336px),,2021-01-05,10500000.0,Multiple domains
+102,CNN Best Practices,,2003-08-06,,Vision
+103,CODEFUSION (Python),,2023-10-26,7920.0,Language
+104,CPC v2,,2019-05-22,,Multiple domains
+105,CPM-Large,,2020-12-01,1800000.0,Language
+106,CRF-RNN,,2015-02-11,,Vision
+107,CT-MoS (WT2),,2020-12-25,562.0,Language
+108,CTC-Trained LSTM,,2006-06-25,,Speech
+109,CTM (CIFAR-10),,2023-10-01,,Image generation
+110,CURL,,2020-04-08,,Games
+111,CaLM,,2022-12-19,29000.0,Biology
+112,CamemBERT,,2019-11-10,830000.0,Language
+113,Cancer drug mechanism prediction,,1992-10-16,5.346e-08,Other
+114,CapsNet (MNIST),,2017-10-26,,Vision
+115,CapsNet (MultiMNIST),,2017-10-26,,Vision
+116,Cascaded LNet-ANet,,2014-11-28,,Vision
+117,Char-CNN-BiLSTM,,2019-06-13,,Language
+118,Character-enriched word2vec,,2016-07-15,,Language
+119,ChatGLM3,,2023-10-27,1092000000.0,Multiple domains
+120,ChatGPT (gpt-3.5-turbo),,2022-11-30,,Language
+121,Chinchilla,,2022-03-29,576000000.0,Language
+122,Chinese - English translation,,2018-03-01,,Language
+123,Claude,,2023-03-14,,Language
+124,Claude 2,,2023-07-11,3866000100.0,Language
+125,Claude 2.1,,2023-11-21,,Language
+126,Claude 3 Opus,,2024-03-04,,Multiple domains
+127,CoAtNet,,2021-06-09,42700004.0,Vision
+128,CoCa,,2022-06-14,73000000.0,Vision
+129,CoEdiT-xxl,,2023-05-17,,Language
+130,CoRe,,2023-12-29,,Other
+131,CodeT5+,,2023-05-20,,Language
+132,CodeT5-base,,2021-11-01,1560000.1,Language
+133,CodeT5-large,,2022-07-05,2720000.0,Language
+134,Codex,,2021-07-07,,Language
+135,CogAgent,,2023-12-14,26900000.0,Multiple domains
+136,CogVLM,,2023-11-06,23110002.0,Multiple domains
+137,CogVideo,,2022-05-29,,Multiple domains
+138,CogView,,2021-05-26,26800000.0,Image generation
+139,Cognitron,,1975-09-01,5.76e-09,Other
+140,Cohere Embed,,2023-11-02,,Language
+141,ConSERT,,2021-05-25,280000.0,Language
+142,Conditional probability machines,,1956-07-01,,Other
+143,Conformer,,2020-05-16,,Speech
+144,Conformer + Wav2vec 2.0 + Noisy Student,,2020-10-20,7600000.0,Speech
+145,Constituency-Tree LSTM,,2015-02-28,,Language
+146,Context-dependent RNN,,2012-07-27,,Language
+147,ContextNet,,2020-05-07,,Speech
+148,ContextNet + Noisy Student,,2020-01-19,8160000.0,Speech
+149,Continuous speech recognition by statistical methods,,1976-04-30,,Speech
+150,Contriever,,2021-12-16,,Language
+151,Conv-DBN,,2009-06-14,,Vision
+152,ConvNet similarity metric,,2005-06-20,,Vision
+153,ConvS2S (ensemble of 8 models),,2017-07-25,56400.0,Language
+154,Convolutional Pose Machines,,2016-01-30,,Vision
+155,Cross-Lingual POS Tagger,,2011-06-19,,Language
+156,Cross-lingual alignment,,2019-04-04,2560.0,Language
+157,Culturome,,2010-12-16,,Language
+158,Cutout-regularized net,,2017-08-15,,Vision
+159,DALL-E,,2021-01-05,47000000.0,Image generation
+160,DALL·E 2,,2022-04-06,,Image generation
+161,DALL·E 3,,2023-10-19,,Image generation
+162,DANet,,2019-04-21,,Vision
+163,DARTS,,2018-06-24,11.0,Language
+164,DBLSTM,,2013-12-08,,Speech
+165,DCN+,,2017-10-31,,Language
+166,DD-PPO,,2019-12-19,780000.06,Other
+167,DDPM-IP (CelebA),,2023-01-27,350000.0,Image generation
+168,DETR,,2020-05-26,400000.0,Vision
+169,DINOv2,,2023-04-14,7418511.0,Vision
+170,DITTO,,2022-06-06,11000.0,Language
+171,DImensionality Reduction,,2006-07-18,,Vision
+172,DLRM-2020,,2019-05-31,4000.0,Other
+173,DMN,,2016-06-20,,Language
+174,DNABERT,,2021-08-15,140000.0,Biology
+175,DOT(S)-RNN,,2013-12-20,,Language
+176,DQN,,2013-12-19,2.3000002,Games
+177,DQN-2015,,2015-02-25,,Games
+178,DeBERTa,,2021-06-10,6000000.0,Language
+179,DeBERTaV3-large + KEAR,,2021-12-06,,Language
+180,DeLight,,2020-08-03,24000.0,Language
+181,Decision tree (classification),,2001-12-08,0.063,Vision
+182,Decision tree adaline,,1969-05-01,,Other
+183,Deconvolutional Network,,2010-06-13,,Vision
+184,Decoupled weight decay regularization,,2019-01-04,2470.0002,Vision
+185,Deep Belief Nets,,2006-07-18,,Vision
+186,Deep Blue,,1997-05-01,,Games
+187,Deep Boltzmann Machines,,2009-04-16,,Other
+188,Deep Deterministic Policy Gradients,,2015-09-09,,Other
+189,Deep LSTM for video classification,,2015-05-01,,Other
+190,Deep Multitask NLP Network,,2008-07-05,,Language
+191,Deep rectifier networks,,2011-04-13,,Other
+192,DeepFace,,2014-06-23,,Vision
+193,DeepLab,,2014-12-22,,Vision
+194,DeepLab (2017),,2017-04-27,,Vision
+195,DeepLabV3,,2017-06-17,,Vision
+196,DeepLabV3+,,2018-02-07,,Vision
+197,DeepNash,,2022-12-01,,Games
+198,DeepNet,,2022-03-01,,Language
+199,DeepSpeech2 (English),,2015-12-08,26000.0,Speech
+200,DeepStack,,2017-01-06,14463.36,Games
+201,Deeply-recursive ConvNet,,2016-11-11,,Multiple domains
+202,Deeply-supervised nets,,2014-09-18,,Vision
+203,DeiT,,2021-01-15,198.14401,Vision
+204,Denoising Autoencoders,,2008-07-05,,Other
+205,Denoising Diffusion Probabilistic Models (LSUN Bedroom),,2021-06-11,380000.03,Vision
+206,DenseNet-264,,2016-08-25,,Vision
+207,DensePhrases,,2020-12-23,2099.52,Language
+208,Detic,,2022-01-07,23439.975,Vision
+209,DiT-XL/2,,2023-03-02,600000.0,Image generation
+210,DiT-XL/2 + CADS,,2023-10-26,,Image generation
+211,DiT-XL/2 + Discriminator Guidance,,2022-11-28,,Image generation
+212,Diabetic Retinopathy Detection Net,,2016-12-13,,Vision
+213,DiffDock,,2022-10-04,72000.0,Biology
+214,Differentiable neural computer,,2016-10-12,,Other
+215,Diffractive Deep Neural Network,,2018-04-14,,Vision
+216,Diffusion-GAN,,2022-06-05,,Image generation
+217,Diplodocus,,2022-10-11,,Games
+218,Discriminator Guidance,,2022-11-28,215700.0,Image generation
+219,DistBelief NNLM,,2013-01-16,2612.736,Language
+220,DistBelief Speech,,2012-12-03,,Speech
+221,DistBelief Vision,,2012-12-03,,Vision
+222,DistilBERT,,2019-10-02,12441.6,Language
+223,Distributed representation NN,,1986-01-01,3.888e-07,Other
+224,DnCNN,,2017-02-01,,Multiple domains
+225,Domain Adaptation,,2011-11-06,,Vision
+226,DrLIM,,2006-06-17,,Other
+227,Dropout (CIFAR),,2012-06-03,4.2687,Vision
+228,Dropout (ImageNet),,2012-06-03,273.1968,Vision
+229,Dropout (MNIST),,2012-06-03,6.039371,Vision
+230,Dropout (TIMIT),,2012-06-03,,Speech
+231,Dropout-LSTM+Noise(Bernoulli) (WT2),,2018-05-03,127.0,Language
+232,Dropout: SVHN,,2014-06-01,,Vision
+233,EDSR,,2017-06-10,,Multiple domains
+234,EI-REHN-1000D,,2017-08-14,10.599999,Language
+235,ELECTRA,,2020-03-23,3100000.0,Language
+236,ELMo,,2018-02-01,,Language
+237,EMDR,,2021-06-09,1240000.0,Language
+238,ENAS,,2018-02-09,20.1,Language
+239,EN^2AS with performance reward,,2019-07-22,,Language
+240,ERNIE 3.0,,2021-07-05,22500000.0,Language
+241,ERNIE 3.0 Titan,,2021-12-23,1042100030.0,Language
+242,ERNIE 3.5,,2023-06-27,,Language
+243,ERNIE 4.0,,2023-10-17,,Multiple domains
+244,ERNIE-Doc (247M),,2020-12-31,29100.0,Language
+245,ERNIE-GEN (large),,2020-08-06,200000.0,Language
+246,ERNIE-ViLG,,2021-12-31,,Multiple domains
+247,ESM1-670M (UR50/D),,2020-08-31,480000.03,Biology
+248,ESM2-15B,,2022-07-21,73500000.0,Biology
+249,ESRGAN,,2018-09-01,,Multiple domains
+250,EVA-01,,2022-11-14,3750943.5,Vision
+251,EfficientDet,,2020-07-27,,Vision
+252,EfficientNet-L2,,2019-05-28,,Vision
+253,EfficientNetV2,,2021-06-23,95600.01,Vision
+254,EfficientZero,,2021-10-30,,Games
+255,Elastic weight consolidation,,2016-12-02,,Multiple domains
+256,Empirical evaluation of deep architectures,,2007-06-01,,Other
+257,EnCodec,,2022-10-24,,Other
+258,Enhanced Neighborhood-Based Filtering,,2007-10-28,,Other
+259,Error Propagation,,1986-01-03,,Other
+260,Eve,,2021-10-27,,Biology
+261,FAIRSEQ Adaptive Inputs,,2019-04-01,7300.0005,Language
+262,FAST,,2006-05-07,,Other
+263,FLAN 137B,,2021-09-03,48960000.0,Language
+264,FTW,,2018-07-03,7260000.5,Games
+265,Falcon-180B,,2023-09-06,3760000300.0,Language
+266,Falcon-40B,,2023-03-15,240000000.0,Language
+267,Fast R-CNN,,2015-04-30,,Vision
+268,Faster R-CNN,,2015-06-04,,Vision
+269,Feedback Transformer,,2020-02-21,44100.0,Language
+270,Feedforward NN,,2010-05-13,0.35000002,Vision
+271,Ferret (13B),,2023-10-11,,Multiple domains
+272,FinGPT-13B,,2023-10-07,160000000.0,Language
+273,Fine-tuned-AWD-LSTM-DOC(fin),,2018-11-12,1.9200001,Language
+274,Firefly,,2023-03-21,,Image generation
+275,Fisher Kernel GMM,,2017-01-01,,Vision
+276,Fisher-Boost,,2010-09-05,,Vision
+277,FixRes ResNeXt-101 WSL,,2019-06-14,,Vision
+278,Flamingo,,2022-04-29,270000000.0,Multiple domains
+279,Flan T5-XXL + BLIP-2,,2023-01-30,1200000.0,Multiple domains
+280,Flan-PaLM 540B,,2022-10-20,2500000000.0,Language
+281,Flan-T5 11B,,2022-10-20,33000000.0,Language
+282,Florence,,2021-11-22,48310000.0,Vision
+283,Fold2Seq,,2021-06-24,,Biology
+284,Fractional Max-Pooling,,2014-12-18,100.0,Vision
+285,FrameNet role labeling,,2000-09-01,,Language
+286,Fraternal dropout + AWD-LSTM 3-layer (WT2),,2017-10-31,98.5,Language
+287,"Frederic Morin, Yoshua Bengio",,2005-01-01,0.115848005,Language
+288,Fully Convolutional Networks,,2014-11-14,,Vision
+289,FunSearch,,2023-12-14,387000000.0,Multiple domains
+290,Fusion in Encoder,,2022-11-18,130000.0,Language
+291,Fuzzy NN,,1992-09-01,1.4031178e-06,Speech
+292,GAN-Advancer,,2016-12-05,,Vision
+293,GANs,,2014-06-10,518.4,Image generation
+294,GBERT-Large,,2020-10-21,2244464.5,Language
+295,GCNN-14,,2016-12-23,,Language
+296,GGNN,,2023-08-05,,Biology
+297,GL-LWGC-AWD-MoS-LSTM + dynamic evaluation (WT2),,2017-08-29,474.00003,Language
+298,GLEE,,1968-07-01,,Games
+299,GLIDE,,2021-12-20,,Image generation
+300,GLM-130B,,2022-08-04,377800000.0,Language
+301,GLaM,,2021-12-13,374000000.0,Language
+302,GNMT,,2016-09-26,6620000.0,Language
+303,GOAT,,2021-07-27,78000010.0,Games
+304,GPT,,2018-06-01,17578.125,Language
+305,GPT-2 (1.5B),,2019-02-14,4300000.0,Language
+306,GPT-3 175B (davinci),,2020-05-28,314000000.0,Language
+307,GPT-3.5 (text-davinci-003),,2022-11-28,2578000000.0,Language
+308,GPT-4,,2023-03-15,21000000000.0,Multiple domains
+309,GPT-4 Turbo,,2023-11-06,,Multiple domains
+310,GPT-4V,,2023-09-25,,Multiple domains
+311,GPT-4o,,2024-05-13,,Multiple domains
+312,GPT-NeoX-20B,,2022-02-09,93162700.0,Language
+313,GPU DBNs,,2009-06-15,1.0,Other
+314,GPipe (Amoeba),,2018-11-16,,Vision
+315,GPipe (Transformer),,2018-11-16,,Language
+316,GRUs,,2014-06-03,,Language
+317,GSM,,2017-07-30,,Language
+318,GShard (dense),,2020-06-30,12800000.0,Language
+319,Galactica,,2022-11-16,324000000.0,Multiple domains
+320,Gated HORNN (3rd order),,2016-04-30,,Language
+321,Gato,,2022-05-12,5440000.0,Multiple domains
+322,Gemini 1.0 Pro,,2023-12-06,,Multiple domains
+323,Gemini 1.0 Ultra,,2023-12-06,50000003000.0,Multiple domains
+324,Gemini 1.5 Pro,,2024-02-15,,Multiple domains
+325,Gemini Nano-1,,2023-12-19,,Multiple domains
+326,Gemini Nano-2,,2023-12-19,,Multiple domains
+327,Gen-1,,2023-02-06,,Other
+328,Gen-2,,2023-03-20,,Other
+329,GenSLM,,2022-10-11,1420000.0,Biology
+330,Generative BST,,2021-03-05,,Language
+331,Genetic algorithm,,1954-07-02,,Other
+332,German ELECTRA Large,,2020-10-21,1428295.6,Language
+333,GloVe (32B),,2014-01-01,,Language
+334,GloVe (6B),,2014-01-01,,Language
+335,Go-explore,,2020-04-27,,Games
+336,Goat-7B,,2023-05-23,,Language
+337,GoogLeNet / InceptionV1,,2015-06-07,1557.1403,Vision
+338,Gopher (280B),,2021-12-08,631000000.0,Language
+339,Gradient Boosting Machine,,2001-10-01,,Other
+340,Graph-based structural reasoning,,1970-09-01,,Vision
+341,GraphCast,,2023-11-14,21000000.0,Other
+342,Greedy layer-wise DNN training,,2006-12-04,,Other
+343,Grok-1,,2023-11-04,2900000000.0,Language
+344,GroupLens,,1994-10-22,,Other
+345,HLBL,,2008-12-08,,Language
+346,HMM Word Alignment,,1996-08-05,,Language
+347,HOGWILD!,,2011-11-11,,Other
+348,HRA,,2017-06-13,,Games
+349,Hanabi 4 player,,2019-02-01,4300.0,Games
+350,Handwritten Digit Recognition System,,1989-01-01,0.00018144,Vision
+351,Heuristic Reinforcement Learning,,1965-10-01,1.08e-09,Other
+352,Heuristic problem solving for AI,,1961-01-01,,Other
+353,Hierarchical Cognitron,,1984-04-01,,Other
+354,Hiero,,2005-06-01,,Language
+355,Histograms of Oriented Gradients,,2005-06-25,,Vision
+356,Hopfield Networks (2020),,2020-07-16,,Multiple domains
+357,Hopfield network,,1982-04-01,,Other
+358,HuBERT,,2021-07-27,5540000.0,Speech
+359,Hybrid H3-2.7B,,2022-12-28,849000.06,Language
+360,HyenaDNA,,2023-06-27,4490.0,Biology
+361,HyperCLOVA 204B,,2021-09-10,,Language
+362,HyperNEAT,,2014-03-05,,Games
+363,IBM Model 4,,1999-07-02,,Language
+364,IBM-5,,1993-06-15,,Language
+365,IMPALA,,2018-02-05,168000.0,Games
+366,ISS,,2017-09-15,3.4,Language
+367,Image Classification with the Fisher Vector: Theory and Practice,,2013-06-12,0.0908424,Vision
+368,Image generation,,2013-12-20,0.47520003,Vision
+369,Image-to-image cGAN,,2016-11-21,,Vision
+370,ImageBind,,2023-05-09,,Multiple domains
+371,Imagen,,2022-05-23,14600000.0,Image generation
+372,Immediate trihead,,2001-07-06,,Language
+373,Inception v3,,2015-12-02,,Vision
+374,Inception-ResNet-V2,,2016-02-23,,Vision
+375,Inceptionv4,,2016-02-23,,Vision
+376,Incoder-6.7B,,2023-04-09,3000010.2,Language
+377,Inflated 3D ConvNet,,2017-06-01,,Other
+378,Inflection-2,,2023-11-22,10010000000.0,Language
+379,Inflection-2.5,,2024-03-07,10001000000.0,Language
+380,Innervator,,1989-01-01,1.2e-07,Other
+381,InstructBLIP,,2023-05-11,194000.0,Multiple domains
+382,InstructGPT,,2022-01-27,,Language
+383,InternImage,,2022-11-10,83174.836,Vision
+384,InternLM,,2023-07-06,,Language
+385,Internal functionality of visual invariants,,1979-05-02,,Vision
+386,Invariant image recognition,,1989-06-18,2.7e-05,Vision
+387,Iterative Bootstrapping WSD,,1995-06-26,,Language
+388,JFT,,2017-07-10,843000.06,Vision
+389,Jais,,2023-08-29,30800002.0,Language
+390,KEPLER,,2020-11-23,124000.0,Language
+391,KN5 LM + RNN 400/10 (WSJ),,2010-09-26,61.440002,Speech
+392,KataGo,,2019-02-27,23200.002,Games
+393,Kohonen network,,1981-07-25,,Other
+394,LDA,,2003-02-02,,Language
+395,LDM-1.45B,,2021-12-20,,Image generation
+396,LEP-AD,,2023-03-15,,Biology
+397,LLaMA-65B,,2023-02-24,550000000.0,Language
+398,LLaVA,,2023-04-17,48522.242,Multiple domains
+399,LLaVA 1.5,,2023-11-05,65000.0,Multiple domains
+400,LMS,,1960-06-30,,Other
+401,LMSI-Palm,,2022-10-20,,Language
+402,LRCN,,2014-11-07,,Other
+403,LRSO-GAN,,2017-10-22,,Vision
+404,LSTM,,1997-11-15,0.021008,Language
+405,LSTM (2018),,2018-03-04,,Language
+406,"LSTM (Hebbian, Cache, MbPA)",,2018-03-27,24000.0,Language
+407,LSTM + dynamic eval,,2017-09-21,,Language
+408,LSTM LM,,2012-01-01,,Other
+409,LSTM with forget gates,,1999-01-02,,Language
+410,LSTM+NeuralCache,,2018-09-24,1.02,Language
+411,LSTM-300units,,2012-09-01,,Language
+412,LSTM-Char-Large,,2015-08-26,2.6499999,Language
+413,LTE speaker verification system,,1966-11-01,1.0591706e-07,Speech
+414,LTM-1,,2023-06-06,,Language
+415,LUKE,,2020-10-02,175799.81,Language
+416,LaMDA,,2022-02-10,355000000.0,Language
+417,LaNet-L (CIFAR-10),,2019-06-17,,Vision
+418,Large regularized LSTM,,2014-09-08,91.0,Language
+419,LeNet-5,,1998-11-01,0.0028109376,Vision
+420,Learnability theory of language development,,1984-07-01,,Language
+421,Learning deep architectures,,2009-11-15,,Other
+422,Libratus,,2017-01-01,551000.0,Games
+423,Linear Decision Functions,,1962-06-01,1.5592501e-09,Other
+424,"Listen, Attend and Spell",,2015-08-20,,Speech
+425,Llama 2-70B,,2023-07-18,810000000.0,Language
+426,Llama 2-7B,,2023-07-18,84000000.0,Language
+427,Llama 3-70B,,2024-04-18,6300000000.0,Language
+428,Llama Guard,,2023-12-07,,Language
+429,Local Binary Patterns for facial recognition,,2006-12-01,,Vision
+430,LongT5,,2021-12-15,,Language
+431,M4-50B,,2019-10-11,,Language
+432,M6-T,,2021-03-05,5500000.5,Multiple domains
+433,MADALINE I,,1962-07-01,,Other
+434,MADALINE III,,1990-09-01,,Other
+435,MCDNN (MNIST),,2012-02-13,3.726979,Vision
+436,MEB,,2021-09-04,,Other
+437,MLP as Bayesian Approximator,,1990-12-01,,Other
+438,MLP baggage detector,,1989-01-01,,Vision
+439,MM1-30B,,2024-03-14,486000000.0,Multiple domains
+440,MMLSTM,,2019-12-05,2320.0,Language
+441,MS-CNN,,2016-09-17,,Vision
+442,MSA Transformer,,2021-02-13,5490000.0,Biology
+443,"MSRA (C, PReLU)",,2015-02-06,23974.031,Vision
+444,MT-DNN,,2019-01-31,,Language
+445,MV-RNN,,2012-07-12,,Language
+446,Make-A-Video,,2022-09-29,,Other
+447,Mamba-24M (SC09),,2023-12-01,,Speech
+448,Mask R-CNN,,2017-03-30,,Vision
+449,Masked Autoencoders,,2021-11-11,460000.0,Vision
+450,MatrixFac for Recommenders,,2009-08-07,,Other
+451,Max-Margin Markov Networks,,2004-03-01,,Multiple domains
+452,Maximum Entropy Models for machine translation,,2002-07-06,,Language
+453,Maxout Networks,,2013-02-18,,Vision
+454,McGill University,,1988-08-01,2.96425e-07,Speech
+455,MedBERT,,2021-05-20,9470.0,Other
+456,Meena,,2020-01-28,112000000.0,Language
+457,MegaScale (Production),,2024-02-23,12000000000.0,Language
+458,MegaSyn,,2022-03-07,,Other
+459,Megatron-BERT,,2019-09-17,60270000.0,Language
+460,Megatron-LM (8.3B),,2019-09-17,9100000.0,Language
+461,Megatron-Turing NLG 530B,,2021-10-11,1170000000.0,Language
+462,MemoReader,,2018-10-31,,Language
+463,Mesh-TensorFlow Transformer 2.9B (translation),,2018-11-05,68428.805,Language
+464,Mesh-TensorFlow Transformer 4.9B (language modelling),,2018-11-05,161740.8,Language
+465,MetNet,,2020-03-24,,Other
+466,Meta Pseudo Labels,,2021-03-01,47900004.0,Vision
+467,MetaLM,,2022-06-13,,Multiple domains
+468,MetaMimic,,2018-10-11,,Games
+469,Mid-level Features,,2010-06-13,,Vision
+470,Midjourney V1,,2022-02-15,,Image generation
+471,Minerva (540B),,2022-06-29,2741500200.0,Language
+472,Mitosis,,2013-09-22,137.0,Multiple domains
+473,Mixtral 8x7B,,2023-12-11,,Language
+474,MnasNet-A1 + SSDLite,,2019-05-29,1500000.0,Vision
+475,MnasNet-A3,,2019-05-29,1500000.0,Vision
+476,Mnemonic Reader,,2017-05-08,,Language
+477,MoCo,,2019-11-13,,Multiple domains
+478,MoE,,2017-01-23,93939.055,Language
+479,MobileNet,,2017-04-17,,Vision
+480,MobileNetV2,,2018-06-18,,Vision
+481,"Mogrifier (d2, MoS2, MC) + dynamic eval",,2019-09-04,,Language
+482,Mogrifier RLSTM (WT2),,2022-11-03,109.0,Language
+483,Motion-Driven 3D Feature Tracking,,1988-07-01,,Other
+484,MuZero,,2019-11-19,48000.0,Games
+485,Multi-cell LSTM,,2018-11-15,2.01,Language
+486,Multi-scale Dilated CNN,,2015-11-23,,Vision
+487,Multi-task Cascaded CNN,,2016-08-26,,Vision
+488,MultiBand Diffusion,,2023-11-08,26000.0,Other
+489,Multiresolution CNN,,2014-06-23,,Other
+490,Multiscale deformable part model,,2008-06-23,,Vision
+491,MusicGen,,2023-06-08,,Other
+492,MusicLM,,2023-01-26,,Other
+493,NAS+ESS (156M),,2020-05-06,2890.0,Language
+494,NASNet-A,,2017-07-21,,Vision
+495,NASv3 (CIFAR-10),,2016-11-05,2200000.0,Vision
+496,NEAT in neuroevolution,,2002-06-01,,Other
+497,NLLB,,2022-07-06,17511138.0,Language
+498,NLP from scratch,,2011-11-08,,Language
+499,NMT Transformer 437M,,2019-02-28,,Language
+500,NPLM,,2003-03-15,1.3038988,Language
+501,NTM,,2014-12-10,,Other
+502,Naive Bayes,,1974-09-01,,Other
+503,Named Entity Recognition model,,2016-05-29,96.940796,Language
+504,Nemotron-3-8B,,2023-11-15,180000000.0,Language
+505,Neocognitron,,1980-04-01,2.281152e-07,Vision
+506,NetTalk (dictionary),,1987-06-06,2.7664064e-05,Speech
+507,NetTalk (transcription),,1987-06-06,2.8328002e-05,Speech
+508,Netflix Recommender System,,2015-12-01,,Other
+509,Network in Network,,2013-12-16,,Vision
+510,NeuMF (Pinterest),,2017-08-16,,Other
+511,Neural Architecture Search with base 8 and shared embeddings,,2016-11-05,10.5,Language
+512,Neuro-Symbolic Concept Learner,,2019-04-26,,Multiple domains
+513,Noisy Student (L2),,2019-11-11,849346.6,Vision
+514,NoisyNet-Dueling,,2017-06-30,,Games
+515,Nucleotide Transformer,,2023-01-15,12000000.0,Biology
+516,NÜWA,,2021-11-24,4838400.0,Multiple domains
+517,ONE-PEACE,,2023-05-18,180000.0,Multiple domains
+518,OPT-175B,,2022-05-02,430000030.0,Language
+519,OR-WideResNet,,2017-01-07,,Vision
+520,OmegaPLM,,2022-07-22,13801881.0,Biology
+521,OmniVec,,2023-11-07,,Multiple domains
+522,Once for All,,2020-04-29,1784281.0,Vision
+523,OntoProtein,,2022-01-23,,Multiple domains
+524,OpenAI Five,,2019-12-13,67000004.0,Games
+525,OpenAI Five Rerun,,2019-12-13,13000000.0,Games
+526,OpenAI TI7 DOTA 1v1,,2017-08-11,604609.5,Games
+527,Optimized Multi-Scale Edge Detection,,1986-11-01,,Vision
+528,Optimized Single-layer Net,,2011-04-11,,Vision
+529,OverFeat,,2013-12-21,,Vision
+530,PDP model for serial order,,1986-01-05,,Speech
+531,PG-SWGAN,,2019-06-15,,Image generation
+532,PLATO-XL,,2021-09-20,9900000.0,Language
+533,PLUG,,2021-04-19,35997696.0,Language
+534,PNAS-net,,2017-12-02,,Vision
+535,PNASNet-5,,2017-12-02,66290.4,Vision
+536,PPLX-70B-Online,,2023-11-29,,Language
+537,PSPNet,,2017-07-21,,Vision
+538,PaLI,,2022-09-14,51000000.0,Multiple domains
+539,PaLI-X,,2023-05-29,,Multiple domains
+540,PaLM (540B),,2022-04-04,2527200000.0,Language
+541,PaLM 2,,2023-05-10,7339999700.0,Language
+542,PaLM-E,,2023-03-06,,Other
+543,PanGu-Σ,,2023-03-20,467000000.0,Language
+544,Pandemonium (morse),,1959-02-01,6e-07,Language
+545,Pangu-Weather,,2023-07-05,39800000.0,Other
+546,Paragraph Vector,,2014-05-14,,Language
+547,Part-of-sentence tagging model,,2016-05-29,145.41121,Language
+548,Parti,,2022-06-22,396289540.0,Image generation
+549,Pattern recognition and reading by machine,,1959-12-01,,Vision
+550,PeptideBERT,,2023-08-28,7600000.0,Biology
+551,Perceiver IO (optical flow),,2020-02-08,,Multiple domains
+552,Perceptron (1960),,1960-03-30,7.2e-07,Vision
+553,Perceptron Mark I,,1957-01-01,6.948949e-10,Other
+554,Perceptron for Large Margin Classification,,1999-12-01,,Vision
+555,PermuteFormer,,2021-09-06,3100.0,Language
+556,Phenaki,,2022-10-05,,Other
+557,Photo-Geometric Autoencoder,,2019-11-25,,Other
+558,Phrase-based translation,,2003-05-01,,Language
+559,PhraseCond,,2017-10-28,,Language
+560,Piecewise linear model,,1973-11-01,,Vision
+561,Pluribus,,2019-07-11,66.0,Games
+562,PointNet,,2016-12-02,,Other
+563,PointNet++,,2017-06-07,,Other
+564,Pointer Sentinel-LSTM (medium),,2016-09-26,7.49,Language
+565,PolyCoder,,2022-02-26,1100000.0,Language
+566,PolyNet,,2016-11-17,64000.0,Vision
+567,Population-based DRL,,2018-07-03,34900.0,Games
+568,Pragmatic Theory solution (Netflix 2009),,2009-08-01,,Other
+569,PreTrans-3L-250H,,2013-03-22,,Speech
+570,Print Recognition Logic,,1963-01-01,2.25e-08,Vision
+571,ProBERTa,,2020-09-01,9720.001,Biology
+572,ProGen2-xlarge,,2022-06-27,13500001.0,Biology
+573,ProgressiveGAN,,2017-10-27,,Vision
+574,Projected GAN,,2021-11-01,,Image generation
+575,ProtBERT-BFD,,2021-05-04,39000004.0,Biology
+576,ProtT5-XXL,,2021-05-04,73700000.0,Biology
+577,ProtT5-XXL-BFD,,2021-05-04,37000000.0,Biology
+578,ProteinBERT,,2022-02-10,65000.0,Biology
+579,ProteinDT,,2023-02-09,,Multiple domains
+580,Prototypical networks,,2017-03-15,,Vision
+581,ProxylessNAS,,2019-02-23,37065.6,Vision
+582,PyramidNet,,2017-09-06,,Vision
+583,Q-learning,,1989-01-01,,Multiple domains
+584,QMoE: compressed 1T model,,2023-10-25,,Language
+585,QRNN,,2018-02-01,360.0,Language
+586,QT-Opt,,2018-06-27,34875.0,Multiple domains
+587,Qwen-72B,,2023-11-30,1300000000.0,Language
+588,Qwen-Audio-Chat,,2023-11-14,,Multiple domains
+589,Qwen-VL,,2023-08-24,,Multiple domains
+590,Qwen-VL-Max,,2024-01-25,,Multiple domains
+591,Qwen1.5 72B,,2024-02-04,,Language
+592,R-CNN (T-net),,2013-11-11,,Vision
+593,R-FCN,,2016-06-21,61.492943,Vision
+594,RAAM,,1990-11-01,,Other
+595,RBM Image Classifier,,2009-04-08,,Vision
+596,RBM-tuning,,2010-08-02,,Other
+597,RCAN,,2018-07-08,,Multiple domains
+598,RCTM,,2013-10-01,9.3312,Language
+599,REINFORCE in Stochastic Connectionism,,1992-05-01,,Other
+600,RETRO-7B,,2022-02-07,16800000.0,Language
+601,RNN 500/10 + RT09 LM (NIST RT05),,2010-09-26,3.414636,Speech
+602,RNN LM,,2010-01-01,,Language
+603,RNN for 1B words,,2013-12-11,,Language
+604,RNN+LDA+KN5+cache,,2012-12-01,,Language
+605,RNN+weight noise+dynamic eval,,2013-08-04,4.21,Language
+606,RNN-SpeedUp,,2011-05-22,,Language
+607,RNN-WER,,2014-06-22,,Speech
+608,RNNsearch-50*,,2014-09-01,1555.2,Language
+609,RNTN,,2013-10-01,14.22,Language
+610,RT-1,,2022-12-13,,Other
+611,RT-2,,2023-07-28,,Other
+612,RT-2-X,,2023-10-13,,Other
+613,RT-Trajectory,,2023-11-03,,Other
+614,Random Decision Forests,,1995-08-14,,Other
+615,Rational DQN Average,,2021-02-18,,Games
+616,ReALM,,2024-03-29,,Language
+617,ReLU (LFW),,2010-06-15,,Vision
+618,ReLU (NORB),,2010-06-15,,Vision
+619,Reading Twice for NLU,,2017-06-08,,Language
+620,Recursive Neural Network,,2011-06-28,,Multiple domains
+621,Recursive sentiment autoencoder,,2011-07-01,,Language
+622,RefineNet,,2016-11-20,,Vision
+623,Refined Part Pooling,,2018-01-09,,Vision
+624,Regularized SVD for Collaborative Filtering,,2007-08-12,,Other
+625,Relational Memory Core,,2018-06-05,,Language
+626,ResNeXt-101 32x48d,,2018-05-02,8743950.0,Vision
+627,ResNeXt-101 Billion-scale,,2019-05-02,,Vision
+628,ResNeXt-50,,2016-11-16,,Vision
+629,ResNet-1001,,2016-09-17,,Vision
+630,ResNet-110 (CIFAR-10),,2015-12-10,,Vision
+631,ResNet-152 (ImageNet),,2015-12-10,12100.0,Vision
+632,ResNet-152 + ObjectNet,,2019-09-06,19400.002,Vision
+633,ResNet-200,,2016-09-17,29741.645,Vision
+634,ResNet-50 Billion-scale,,2019-05-02,,Vision
+635,Residual Dense Network,,2018-02-24,,Multiple domains
+636,Restricted Bolzmann machines,,2007-06-20,,Other
+637,RetinaNet-R101,,2017-08-07,2065.392,Vision
+638,RetinaNet-R50,,2017-08-07,,Vision
+639,Retrieval-Augmented Generator,,2020-05-22,,Language
+640,RoBERTa Large,,2019-07-01,4153835.5,Language
+641,RoboCat,,2023-06-20,,Other
+642,Robot Parkour,,2023-09-12,,Other
+643,Rotation,,2018-03-21,,Multiple domains
+644,Routing Transformer,,2020-03-12,,Language
+645,S-Norm,,2017-10-29,,Language
+646,S4,,2021-10-31,600000.0,Language
+647,SACHS,,2005-04-22,,Biology
+648,SC-NLM,,2014-11-10,,Other
+649,SEER,,2021-07-29,4420000.0,Vision
+650,SENet (ImageNet),,2017-09-05,,Vision
+651,SNARC,,1952-01-08,,Other
+652,SPHINX (Llama 2 13B),,2023-11-13,30400000.0,Multiple domains
+653,SPIDER2,,2016-10-28,0.00854,Biology
+654,SPN-4+KN5,,2014-01-01,44.0,Language
+655,SPPNet,,2014-06-18,3411.072,Vision
+656,SRGAN,,2017-05-25,,Multiple domains
+657,SRN-Encoded Grammatical Structures,,1991-09-01,,Language
+658,SRU++ Large,,2021-02-24,11000.0,Language
+659,ST-MoE,,2022-02-17,290000000.0,Language
+660,SVD in recommender systems,,2000-07-14,,Other
+661,SVM for face detection,,1997-06-17,,Vision
+662,Samuel Neural Checkers,,1959-07-01,4.284e-07,Games
+663,Sandwich Transformer,,2019-11-10,158000.0,Language
+664,Sapienza Università di Roma,,1994-01-01,4.5312e-06,Other
+665,SciBERT,,2019-03-26,89268.48,Language
+666,SeamlessM4T,,2023-12-08,,Multiple domains
+667,Search-Proven Best LSTM,,2015-07-06,3.3400002,Language
+668,SearchFusion,,2013-04-02,,Vision
+669,"Segatron-XL large, M=384 + HCP",,2022-03-21,26500.0,Language
+670,Segment Anything Model,,2023-04-05,7800000.0,Vision
+671,Self Organizing System,,1955-03-01,,Other
+672,SemExp,,2020-07-02,,Other
+673,SemVec,,2013-06-09,,Language
+674,Semantic Hashing,,2008-12-10,,Language
+675,Semi-Supervised Embedding for DL,,2008-07-05,,Other
+676,Seq2Seq LSTM,,2014-09-10,56000.0,Language
+677,Sequence-based pattern recognition,,1955-03-01,,Vision
+678,Show-1,,2023-09-27,,Other
+679,ShuffleNet v1,,2017-07-03,,Vision
+680,ShuffleNet v2,,2018-06-30,,Vision
+681,SimCLR,,2020-02-13,,Vision
+682,SimCLRv2,,2020-10-26,,Vision
+683,SimCSE,,2022-05-18,,Language
+684,SimpleNet,,2016-08-22,,Vision
+685,Skywork-13B,,2023-10-30,250000000.0,Language
+686,SmooCT,,2014-07-01,69.0,Games
+687,Social and content-based classification,,1998-07-01,,Other
+688,Sora,,2024-02-15,,Other
+689,Sparse Energy-Based Model,,2006-12-04,,Vision
+690,Sparse Non-negative Matrix (SNM) estimation,,2014-12-03,,Language
+691,Sparse all-MLP,,2022-04-14,60770.305,Language
+692,Sparse coding model for V1 receptive fields,,1997-12-01,,Vision
+693,Sparse digit recognition SVM,,2008-11-19,,Vision
+694,Spatial Pyramid Matching,,2006-06-17,,Vision
+695,Spatially-Sparse CNN,,2014-09-23,,Vision
+696,Spatiotemporal fusion ConvNet,,2016-06-01,,Other
+697,Speaker-independent vowel classification,,1989-01-01,7.485696e-06,Speech
+698,SpecAugment,,2019-04-18,,Language
+699,Spectrally Normalized GAN,,2018-02-16,,Image generation
+700,SqueezeNet,,2016-02-24,,Vision
+701,Stable Diffusion (LDM-KL-8-G),,2022-04-13,50000000.0,Image generation
+702,Stable Diffusion XL,,2023-07-04,,Image generation
+703,Stacked Denoising Autoencoders,,2010-01-03,,Other
+704,Stacked hourglass network,,2016-09-17,,Vision
+705,Stanford University,,2014-06-21,,Other
+706,Stanley (DARPA Grand Challenge 2),,2006-01-01,,Other
+707,StarCoder,,2023-05-09,84600000.0,Language
+708,StarGAN v2,,2019-12-04,,Vision
+709,Statement Curriculum Learning,,2022-03-02,,Language
+710,Statistical Shape Constellations,,2003-01-01,,Vision
+711,Student of Games,,2021-12-06,36679270.0,Games
+712,Super-vector coding,,2010-01-01,,Vision
+713,Support Vector Machines,,1995-09-01,,Vision
+714,Swift,,2023-08-30,53.37,Other
+715,Swin Transformer V2,,2021-11-18,1100000.0,Multiple domains
+716,Switch,,2021-01-11,82200000.0,Language
+717,Symmetric Residual Encoder-Decoder Net,,2016-03-30,,Multiple domains
+718,System 11,,1996-06-18,1.293e-05,Vision
+719,T0-XXL,,2021-10-15,918190.06,Language
+720,T5-11B,,2019-10-23,33000000.0,Language
+721,T5-3B,,2019-10-23,865865.44,Language
+722,TCN (P-MNIST),,2018-02-15,,Language
+723,TD(0),,1977-08-01,,Other
+724,TD-Gammon,,1992-05-01,0.018232157,Games
+725,TFE SVM,,2006-02-02,,Vision
+726,TSN,,2016-09-17,,Other
+727,TaLK Convolution,,2020-02-08,27800.0,Language
+728,Tacotron 2,,2017-12-19,,Speech
+729,Tagging via Viterbi Decoding,,2002-06-01,,Language
+730,Taiyi-Stable Diffusion,,2022-10-31,51000000.0,Image generation
+731,Temporal Convolutional Attention-based Network(TCAN) (WT2),,2020-02-28,,Language
+732,Tensor-Transformer(1core)+PN (WT103),,2020-03-17,1580.0,Language
+733,TensorReasoner,,2013-12-01,,Language
+734,Tensorized Transformer (257M),,2019-06-24,4760.0005,Language
+735,Textual Imager,,2013-01-16,,Vision
+736,Theseus,,1950-07-02,4e-14,Other
+737,Theseus 6/768,,2020-02-07,,Language
+738,Thumbs Up?,,2002-05-28,,Language
+739,Time-delay neural networks,,1989-03-03,,Speech
+740,TrOCR,,2021-09-21,,Vision
+741,Trajectory-pooled conv nets,,2015-05-19,,Other
+742,TranceptEve,,2022-12-10,,Biology
+743,Tranception,,2022-05-27,7240000.5,Biology
+744,TransE,,2013-12-05,1340.928,Language
+745,Transformer,,2017-06-12,7424.525,Language
+746,Transformer (Adaptive Input Embeddings) WT103,,2018-09-28,72000.0,Language
+747,Transformer + Simple Recurrent Unit,,2018-09-17,11000.0,Language
+748,Transformer - LibriVox + Decoding/Rescoring,,2019-11-19,,Speech
+749,Transformer ELMo,,2019-01-01,,Language
+750,Transformer local-attention (NesT-B),,2021-05-26,24057.602,Vision
+751,Transformer-XL (257M),,2019-01-09,10900.0,Language
+752,Transformer-XL + RMS dynamic eval,,2019-04-17,,Language
+753,Transformer-XL DeFINE (141M),,2019-11-27,6200.0,Language
+754,Transformer-XL Large + Phrase Induction,,2019-06-04,7300.0005,Language
+755,TransformerXL + spectrum control,,2020-03-11,460.0,Language
+756,TrellisNet,,2018-10-15,2780.0,Language
+757,TriNet,,2017-11-21,,Other
+758,Truck backer-upper,,1989-06-18,,Other
+759,True-Regularization+Finetune+Dynamic-Eval,,2019-04-08,,Language
+760,Turing-NLG,,2020-02-13,15700000.0,Language
+761,Two-stream ConvNets for action recognition,,2014-06-09,,Other
+762,U-PaLM (540B),,2022-10-20,2530000100.0,Language
+763,UDSMProt,,2019-09-04,890.00006,Biology
+764,UL2,,2022-05-10,120000000.0,Language
+765,ULM-FiT,,2018-01-18,272.538,Language
+766,UnifiedQA,,2020-05-02,35000.0,Language
+767,Universal approximation via Feedforward Networks,,1989-03-09,,Other
+768,Unsupervised High-level Feature Learner,,2012-07-12,600.0,Vision
+769,Unsupervised Scale-Invariant Learning,,2003-06-18,,Vision
+770,VALL-E,,2023-01-05,10100.0,Multiple domains
+771,VD-LSTM+REAL Large,,2016-11-04,21.3,Language
+772,VD-RHN,,2016-07-12,3.57,Language
+773,VGG16,,2014-09-04,9253.44,Vision
+774,VGG19,,2014-09-04,,Vision
+775,VQGAN + CLIP,,2020-12-17,,Image generation
+776,"Variational (untied weights, MC) LSTM (Large)",,2015-12-16,5.6200004,Language
+777,Vector Space Model,,2011-06-19,,Language
+778,ViT + DINO,,2021-04-29,210000.0,Vision
+779,ViT-22B,,2023-02-10,400010020.0,Vision
+780,ViT-Base/32,,2020-10-22,,Vision
+781,ViT-G (model soup),,2022-03-10,3400000.2,Vision
+782,ViT-G/14,,2021-06-08,3400000.2,Vision
+783,ViT-G/14 (LiT),,2021-11-15,,Vision
+784,ViT-Huge/14,,2020-10-22,4262000.0,Vision
+785,Vicuna-13B,,2023-03-30,,Language
+786,VideoMAE V2,,2023-03-29,9700000.0,Other
+787,Visualizing CNNs,,2013-11-12,532.0,Vision
+788,Volcano 13B,,2023-11-13,,Language
+789,W2v-BERT,,2021-08-07,,Speech
+790,WGAN-GP,,2017-03-31,,Image generation
+791,Walking Minotaur robot,,2019-06-19,,Other
+792,WaveNet,,2016-09-12,,Speech
+793,WeNet (Penn Treebank),,2019-04-08,,Language
+794,Whisper,,2022-09-21,46500000.0,Speech
+795,Wide & Deep,,2016-06-24,,Other
+796,Wide Residual Network,,2016-09-19,,Vision
+797,WizardCoder-15.5B,,2023-06-14,112000000.0,Language
+798,WizardLM-7B,,2023-04-24,40200000.0,Language
+799,Word Representations,,2010-06-01,,Language
+800,Word2Vec (large),,2013-10-16,38.879997,Language
+801,Word2Vec (small),,2013-10-16,,Language
+802,XGLM,,2021-12-20,22500000.0,Language
+803,XGLM-7.5B,,2021-12-20,43475930.0,Language
+804,XLM,,2019-06-01,,Language
+805,XLM-RoBERTa,,2019-11-05,,Language
+806,XLMR-XXL,,2021-08-17,,Language
+807,XLNet,,2019-06-01,8900000.0,Language
+808,Xception,,2016-10-07,436000.0,Vision
+809,YOLO,,2015-06-08,,Vision
+810,YOLOX-X,,2021-08-06,,Vision
+811,YOLOv2,,2016-12-25,,Vision
+812,YOLOv3,,2018-04-08,50939.2,Vision
+813,Yi-34B,,2023-11-02,610000060.0,Language
+814,YouTube Video Recommendation System,,2010-09-26,,Other
+815,Youtube recommendation model,,2016-09-15,,Other
+816,Yuan 1.0,,2021-10-12,353800030.0,Language
+817,Zidong Taichu,,2021-08-11,,Multiple domains
+818,Zip CNN,,1989-12-01,4.3372118e-05,Vision
+819,Zoneout + Variational LSTM (WT2),,2016-09-26,16.8,Language
+820,aLSTM(depth-2)+RecurrentPolicy (WT2),,2018-05-22,75.9,Language
+821,base LM+GNN+kNN,,2021-10-17,7300.0005,Language
+822,data2vec (language),,2022-01-20,,Language
+823,data2vec (speech),,2022-01-20,,Speech
+824,data2vec (vision),,2022-01-20,,Vision
+825,eDiff-I,,2022-11-02,54600.004,Image generation
+826,fastText,,2016-07-06,,Language
+827,genCNN + dyn eval,,2015-03-17,73.0,Language
+828,iGPT-L,,2020-06-17,8910000.0,Multiple domains
+829,iGPT-XL,,2020-06-17,33000000.0,Multiple domains
+830,mPLUG-Owl2,,2023-11-07,,Multiple domains
+831,mT0-13B,,2022-11-03,,Language
+832,mT5-XXL,,2020-10-20,82000000.0,Language
+833,top-down frozen classifier,,2021-02-09,,Language
+834,wave2vec 2.0 LARGE,,2020-10-22,1900000.0,Speech
+835,xTrimoPGLM -100B,,2023-07-06,600010000.0,Biology
+836,λ-WASP,,2007-06-01,,Language
