@@ -22,6 +22,9 @@
 ---
 
 ## 📌 Pengenalan Fitur
+
+![image](https://github.com/user-attachments/assets/01a48f27-2b2d-4e51-8054-cb667af987d3)
+
 **Fitur** (atau *feature variables*) adalah elemen data yang digunakan untuk memprediksi target dalam model pembelajaran mesin. Misalnya, dalam prediksi penyakit jantung, fitur bisa berupa berat badan, jenis kelamin, atau detak jantung istirahat. Fitur ini menjadi dasar bagi algoritma untuk mempelajari pola dan membuat prediksi.  
 
 🔍 **Mengapa Fitur Penting?**  
@@ -36,6 +39,9 @@ Contoh lain: Dalam prediksi harga rumah, fitur mungkin mencakup luas bangunan, j
 ---
 
 ## 🔢 Jenis-Jenis Fitur
+
+![image](https://github.com/user-attachments/assets/6bbc3e2a-b368-4da8-ba1f-384ce9d8486c)
+
 
 ### Numerik
 Fitur numerik berupa angka yang dapat diukur atau dihitung.  
@@ -67,7 +73,9 @@ Fitur turunan (*derived features*) dibuat dari fitur yang sudah ada.
 
 ⚙️ **Proses Pembuatan**:  
 - Menggabungkan, memotong, atau mengubah data mentah.  
-- Memerlukan kreativitas dan pemahaman domain.  
+- Memerlukan kreativitas dan pemahaman domain.
+
+- 
 
 [⬆ Kembali ke Daftar Isi](#-daftar-isi)
 
@@ -99,6 +107,9 @@ Rekayasa fitur (*feature engineering*) adalah proses mengoptimalkan fitur untuk 
 ---
 
 ## 🎨 Fitur dalam Data Tidak Terstruktur
+
+![image](https://github.com/user-attachments/assets/7b5a839c-4741-40a9-8b11-b6184d600ef0)
+
 Data tidak terstruktur (seperti gambar, teks, atau audio) juga memiliki fitur, meski lebih abstrak.  
 
 ### Contoh:
@@ -120,6 +131,9 @@ Algoritma pembelajaran mendalam (*deep learning*) secara otomatis mengekstraksi 
 ---
 
 ## 📊 Cakupan Fitur
+
+![image](https://github.com/user-attachments/assets/a48ed4c3-dd5b-443a-843d-9bebedd0d724)
+
 Cakupan fitur (*feature coverage*) mengacu pada seberapa lengkap nilai fitur tersedia dalam dataset.  
 
 ### Masalah Umum:
