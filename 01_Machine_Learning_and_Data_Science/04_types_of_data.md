@@ -25,7 +25,12 @@ Dalam dunia pembelajaran mesin (machine learning), memahami jenis data yang kita
 
 ## 📊 Jenis Data
 
+![image](https://github.com/user-attachments/assets/81e49e4e-b541-472f-b01d-fd1ad7d3a4e4)
+
 ### 🗂️ Data Terstruktur
+
+![image](https://github.com/user-attachments/assets/2326d47c-fe76-4cce-8f83-2ca034e38dcf)
+
 
 Data terstruktur adalah jenis data yang biasanya disimpan dalam format tabel, seperti file Excel atau CSV (Comma Separated Values). Data ini memiliki format yang konsisten, di mana setiap baris mewakili satu sampel (misalnya, catatan medis pasien), dan setiap kolom mewakili atribut tertentu (misalnya, berat badan, jenis kelamin, atau tekanan darah).
 
@@ -38,6 +43,8 @@ Data terstruktur sangat cocok untuk analisis statistik dan pembelajaran mesin ka
 [🔙 Kembali ke Daftar Isi](#-daftar-isi)
 
 ### 🎨 Data Tidak Terstruktur
+
+![image](https://github.com/user-attachments/assets/7875e44e-22bc-4951-b84e-f17d684a1adf)
 
 Data tidak terstruktur adalah jenis data yang tidak memiliki format yang konsisten. Contohnya termasuk gambar, teks, video, dan file audio. Meskipun data ini dapat diubah menjadi angka dan diberi struktur, format aslinya sangat bervariasi.
 
@@ -55,6 +62,9 @@ Data tidak terstruktur memerlukan teknik khusus untuk diproses, seperti pengolah
 
 ### 📂 Data Statis
 
+![image](https://github.com/user-attachments/assets/c61c4bb5-dc24-4fb7-8c5d-b90fa2b1f4fd)
+
+
 Data statis adalah data yang tidak berubah seiring waktu. Contohnya adalah file CSV yang berisi catatan medis pasien. Data ini biasanya disimpan dalam satu file dan dapat dibaca menggunakan alat seperti pandas, sebuah library Python untuk analisis data.
 
 **Contoh:**
@@ -65,6 +75,8 @@ Data statis sangat berguna dalam pembelajaran mesin karena kita dapat mengumpulk
 [🔙 Kembali ke Daftar Isi](#-daftar-isi)
 
 ### 🌊 Data Streaming
+
+![image](https://github.com/user-attachments/assets/df39d7ab-44b9-49c4-aee9-e82b3c365350)
 
 Data streaming adalah data yang terus berubah seiring waktu. Contohnya adalah berita terkini yang memengaruhi harga saham. Data ini terus diperbarui, dan kita perlu memprosesnya secara real-time untuk mendapatkan wawasan yang relevan.
 
@@ -78,6 +90,8 @@ Meskipun data streaming lebih kompleks untuk diproses, data ini sangat penting d
 ---
 
 ## 🛠️ Workflow Data Science
+
+![image](https://github.com/user-attachments/assets/3f65a5e6-fca7-48b9-a045-3e379b3ff349)
 
 Alur kerja umum dalam data science dimulai dengan membuka file CSV di Jupyter Notebook, sebuah alat untuk membangun proyek pembelajaran mesin. Langkah selanjutnya adalah menjelajahi data dan melakukan analisis data menggunakan pandas. Kita juga dapat membuat visualisasi data menggunakan matplotlib, sebuah library Python untuk membuat grafik.
 

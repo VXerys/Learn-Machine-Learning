@@ -22,6 +22,8 @@
 ## 🌟 Pengenalan
 Dalam era digital ini, istilah seperti **Kecerdasan Buatan (AI)**, **Pembelajaran Mesin (Machine Learning)**, **Deep Learning**, dan **Ilmu Data (Data Science)** semakin sering terdengar. Namun, apa sebenarnya arti dari istilah-istilah ini? Bagaimana mereka saling terkait? Dokumen ini akan menjelaskan secara mendalam tentang konsep-konsep tersebut, serta bagaimana mereka digunakan dalam dunia nyata.
 
+![image](https://github.com/user-attachments/assets/cae0b968-b250-4cfb-85e0-bc1be4243af6)
+
 [🔙 Kembali ke Daftar Isi](#-daftar-isi)
 
 ---

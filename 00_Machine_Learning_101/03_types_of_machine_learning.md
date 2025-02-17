@@ -27,6 +27,8 @@ Pembelajaran mesin memiliki berbagai aplikasi, mulai dari pengenalan gambar, pre
 
 Pembelajaran mesin dapat dibagi menjadi beberapa kategori utama, masing-masing dengan pendekatan dan aplikasi yang berbeda. Berikut adalah penjelasan mendetail tentang setiap kategori:
 
+![image](https://github.com/user-attachments/assets/e38a57bc-878d-4236-94f5-640d32ca2572)
+
 ### 🎯 Pembelajaran Terawasi (Supervised Learning)
 
 Pembelajaran terawasi adalah jenis pembelajaran mesin di mana data yang digunakan sudah memiliki label atau kategori. Artinya, kita memiliki data input dan output yang sudah diketahui, sehingga model dapat belajar untuk memetakan input ke output yang benar.

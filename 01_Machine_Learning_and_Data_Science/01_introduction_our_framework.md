@@ -21,7 +21,9 @@ Alih-alih, pendekatan yang lebih efektif adalah fokus pada membangun solusi prak
 
 ## 🧩 Tiga Bagian Utama Pembelajaran Mesin
 
-Pembelajaran mesin dapat dibagi menjadi tiga bagian utama:
+![image](https://github.com/user-attachments/assets/4ca44930-6759-44c8-955c-8b7dc9446b8b)
+
+Pembelajaran mesin dapat dibagimenjadi tiga bagian utama:
 
 1. **Pengumpulan Data**  
    Ini adalah langkah pertama di mana data yang relevan dikumpulkan. Data ini bisa berasal dari berbagai sumber seperti database, API, atau bahkan scraping web. Kualitas data sangat penting karena model pembelajaran mesin hanya sebaik data yang digunakan.
@@ -35,6 +37,8 @@ Pembelajaran mesin dapat dibagi menjadi tiga bagian utama:
 ---
 
 ## 🛠️ Kerangka Kerja Pembelajaran Mesin
+
+![image](https://github.com/user-attachments/assets/b75c532d-26bf-47c7-b84a-b0080b208c45)
 
 Untuk memudahkan proses pembelajaran mesin, kita akan menggunakan kerangka kerja yang terstruktur. Berikut adalah langkah-langkahnya:
 
@@ -54,6 +58,9 @@ Untuk memudahkan proses pembelajaran mesin, kita akan menggunakan kerangka kerja
 Salah satu tantangan terbesar dalam mempelajari pembelajaran mesin adalah terlalu banyak berpikir dan terlalu sedikit bertindak. Banyak pemula terjebak dalam mencoba memahami setiap detail teoritis sebelum mulai menulis kode. Namun, pendekatan ini seringkali menghambat kemajuan.
 
 Sebagai gantinya, kita akan fokus pada praktik langsung. Dengan menulis kode dan membangun solusi praktis, Anda akan lebih cepat memahami konsep-konsep pembelajaran mesin. Selain itu, Anda akan memiliki portofolio proyek yang dapat menunjukkan keterampilan Anda kepada calon pemberi kerja atau klien.
+
+![image](https://github.com/user-attachments/assets/a8798066-c032-4098-9029-d5b76163a0fc)
+
 
 ---
 
