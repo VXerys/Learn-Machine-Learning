@@ -16,6 +16,9 @@
 ---
 
 ## 🌟 Pendahuluan
+
+![image](https://github.com/user-attachments/assets/1facdfe3-d74d-40ee-ad6f-b4b512c86104)
+
 Setelah melalui langkah pertama (definisi masalah) dan langkah kedua (pengumpulan data), kita tiba pada langkah ketiga: **evaluasi**. Evaluasi adalah proses penting dalam machine learning yang bertujuan untuk mengukur seberapa baik model kita dalam memprediksi masa depan berdasarkan data yang ada. Dalam dokumentasi ini, kita akan membahas secara mendalam tentang metrik evaluasi, jenis-jenisnya, serta contoh praktis penggunaannya.
 
 [🔝 Kembali ke Daftar Isi](#-daftar-isi)
@@ -23,6 +26,9 @@ Setelah melalui langkah pertama (definisi masalah) dan langkah kedua (pengumpula
 ---
 
 ## 📊 Apa Itu Metrik Evaluasi?
+
+![image](https://github.com/user-attachments/assets/91bf057a-a66a-4a44-a50a-eb87857c086e)
+
 Metrik evaluasi adalah alat yang digunakan untuk mengukur performa suatu model machine learning. Tujuannya adalah untuk menjawab pertanyaan: **Apa yang mendefinisikan kesuksesan bagi kita?** Misalnya, jika kita ingin memprediksi apakah seorang pasien menderita penyakit jantung berdasarkan rekam medisnya, kita mungkin menetapkan bahwa model harus memiliki akurasi di atas 99% untuk dianggap berhasil.
 
 Metrik evaluasi membantu tim proyek memiliki tujuan yang sama dan memastikan bahwa model yang dibangun memenuhi standar yang diperlukan. Namun, penting untuk diingat bahwa metrik evaluasi bisa berubah seiring dengan perkembangan proyek, terutama ketika kita semakin memahami data yang kita miliki.
@@ -32,6 +38,9 @@ Metrik evaluasi membantu tim proyek memiliki tujuan yang sama dan memastikan bah
 ---
 
 ## 📈 Jenis-Jenis Metrik Evaluasi
+
+![image](https://github.com/user-attachments/assets/8e0bf4fa-e592-4563-8ad5-4cc246af9499)
+
 Metrik evaluasi bervariasi tergantung pada jenis masalah yang dihadapi. Berikut adalah beberapa jenis metrik evaluasi yang umum digunakan:
 
 ### 🎯 Klasifikasi
@@ -60,6 +69,9 @@ Contoh: Jika kita memiliki ribuan produk untuk direkomendasikan, kita mungkin ha
 ---
 
 ## 🏁 Contoh Praktis Metrik Evaluasi
+
+![image](https://github.com/user-attachments/assets/ebd06f79-2dca-4cfd-a037-20837af1a1ff)
+
 Sebagai contoh praktis, mari kita lihat sebuah proyek di mana kita ingin menggunakan teks dari klaim asuransi mobil untuk memprediksi siapa yang menyebabkan kecelakaan: orang yang mengajukan klaim atau orang lain yang terlibat. Perusahaan asuransi menetapkan bahwa model harus memiliki akurasi minimal 95% untuk dianggap berhasil. Ini berarti model hanya boleh salah dalam 1 dari 20 klaim.
 
 Dalam kasus ini, akurasi adalah metrik evaluasi yang tepat karena kita ingin memastikan bahwa prediksi model sangat akurat. Proyek ini menunjukkan pentingnya memilih metrik evaluasi yang sesuai dengan tujuan proyek.
