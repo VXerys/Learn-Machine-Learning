@@ -16,6 +16,8 @@
 ---
 
 ## 🌟 Pendahuluan
+![image](https://github.com/user-attachments/assets/02a7cc09-4619-4b5f-9a91-5b9bec5b324d)
+
 
 Pembelajaran mesin (Machine Learning) adalah salah satu cabang ilmu yang paling menarik dan berkembang pesat dalam bidang kecerdasan buatan (Artificial Intelligence). Dalam dokumentasi ini, kita akan membahas langkah-langkah penting dalam proses pembelajaran mesin, mulai dari definisi masalah hingga jenis-jenis masalah yang dapat diselesaikan dengan teknik ini. 🚀
 
