@@ -23,6 +23,8 @@ Pembelajaran mesin (machine learning) adalah bidang yang sangat luas dan mencaku
 
 Algoritma pembelajaran mesin sering disebut juga sebagai **model**, dan kedua istilah ini akan digunakan secara bergantian. Yang membedakan algoritma pembelajaran mesin dengan algoritma biasa adalah **aspek pembelajaran**-nya. Algoritma biasa mengikuti serangkaian instruksi yang telah ditentukan, sementara algoritma pembelajaran mesin mencoba menemukan instruksi tersebut berdasarkan data yang diberikan.
 
+![image](https://github.com/user-attachments/assets/a5d8fff1-3d40-4b14-9ce0-693a8a126d32)
+
 ---
 
 ## 🔄 Perbedaan Algoritma Pembelajaran Mesin dan Algoritma Biasa
@@ -36,10 +38,14 @@ Algoritma biasa adalah serangkaian instruksi yang telah ditentukan untuk menyele
 
 Jika langkah-langkah ini diikuti dengan benar, hasilnya adalah hidangan ayam madu mustard yang lezat.
 
+![image](https://github.com/user-attachments/assets/3df7b654-fbad-4b98-9a1b-7987bb177d96)
+
 ### Algoritma Pembelajaran Mesin
 Berbeda dengan algoritma biasa, algoritma pembelajaran mesin tidak dimulai dengan serangkaian instruksi. Sebaliknya, ia dimulai dengan **input** (bahan-bahan) dan **output yang diinginkan** (hidangan ayam madu mustard). Algoritma ini mencoba menemukan pola atau instruksi yang menghubungkan input dan output tersebut.
 
 Misalnya, jika Anda diberikan bahan-bahan dan hidangan yang diinginkan, Anda mungkin mencoba berbagai kombinasi untuk menemukan resep yang tepat. Proses ini mirip dengan cara kerja algoritma pembelajaran mesin, yang mencoba menemukan pola dalam data untuk membuat prediksi atau keputusan di masa depan.
+
+![image](https://github.com/user-attachments/assets/fbce76c8-45f3-4007-985d-fd950ab346a5)
 
 ---
 
@@ -65,6 +71,8 @@ Algoritma pembelajaran mesin akan mencoba menemukan pola atau instruksi yang men
 
 Dengan banyaknya data (bahan dan hidangan), algoritma pembelajaran mesin dapat menemukan pola yang efektif untuk membuat hidangan yang lezat.
 
+![image](https://github.com/user-attachments/assets/a6647f21-bd62-4061-87c3-3ab0c64d2854)
+
 ---
 
 ## 📊 Hubungan Antara Analisis Data, Ilmu Data, dan Pembelajaran Mesin
@@ -72,11 +80,18 @@ Dengan banyaknya data (bahan dan hidangan), algoritma pembelajaran mesin dapat m
 ### Analisis Data
 Analisis data adalah proses memeriksa data untuk memahami pola, tren, dan hubungan di dalamnya. Misalnya, menganalisis berbagai sampel bahan untuk menemukan kesamaan atau perbedaan.
 
-### Ilmu Data (Data Science)
-Ilmu data mencakup analisis data dan eksperimen untuk menemukan wawasan yang dapat ditindaklanjuti. Salah satu eksperimen tersebut adalah membangun model pembelajaran mesin.
+![image](https://github.com/user-attachments/assets/19dc0fae-caad-4d29-8d78-047cca42ca1f)
 
 ### Pembelajaran Mesin
 Pembelajaran mesin adalah bagian dari ilmu data. Model pembelajaran mesin dapat menganalisis ribuan set data untuk membuat prediksi. Misalnya, model dapat memprediksi hidangan apa yang dapat dibuat berdasarkan bahan yang tersedia.
+
+![image](https://github.com/user-attachments/assets/34488d2a-d4d8-4dc6-8136-1efbdb7fdfa8)
+
+### Ilmu Data (Data Science)
+Ilmu data mencakup analisis data dan eksperimen untuk menemukan wawasan yang dapat ditindaklanjuti. Salah satu eksperimen tersebut adalah membangun model pembelajaran mesin.
+
+![image](https://github.com/user-attachments/assets/5a501fec-fc88-4d3e-bcc9-6d088b4d0a84)
+
 
 ---
 
