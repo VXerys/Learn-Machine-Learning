@@ -1,6 +1,6 @@
 # 📚 Dokumentasi Pembelajaran Mesin (Machine Learning)
 
-## 📑 Daftar Isi
+## Daftar Isi
 - [📚 Dokumentasi Pembelajaran Mesin (Machine Learning)](#-dokumentasi-pembelajaran-mesin-machine-learning)
   - [📑 Daftar Isi](#-daftar-isi)
   - [🧠 Apa Itu Pembelajaran Mesin?](#-apa-itu-pembelajaran-mesin)
