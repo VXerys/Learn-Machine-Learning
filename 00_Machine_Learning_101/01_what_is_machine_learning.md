@@ -24,6 +24,7 @@
 Machine Learning (ML) dan Data Science adalah dua topik yang sedang naik daun di industri teknologi. Dalam dokumentasi ini, kita akan menjelajahi konsep-konsep ini secara mendalam, memahami bagaimana mereka berperan dalam dunia teknologi, dan mengapa mereka begitu penting. Selain itu, kita akan membahas bagaimana komputer bekerja, keterbatasan mereka, dan bagaimana Machine Learning mengatasi beberapa tantangan tersebut.
 
 ---
+![image](https://github.com/user-attachments/assets/8569605f-ba2b-4821-9e0f-d82cc9cdc7ad)
 
 ## 🤖 Apa Itu Machine Learning?
 Machine Learning adalah cabang dari Artificial Intelligence (AI) yang memungkinkan mesin untuk "belajar" dari data tanpa harus diprogram secara eksplisit. Tujuannya adalah membuat mesin dapat mengambil keputusan atau melakukan tugas yang biasanya membutuhkan kecerdasan manusia.
@@ -38,6 +39,8 @@ Komputer telah mengubah cara kita hidup dan bekerja. Mereka mampu melakukan tuga
 
 ### Contoh Praktis:
 Misalnya, jika Anda ingin mencari rute tercepat ke rumah teman Anda, Anda bisa menggunakan Google Maps. Alih-alih menghitung secara manual dengan peta dan penggaris, Anda hanya perlu mengetikkan alamat, dan komputer akan memberikan jawaban dalam hitungan detik.
+
+![image](https://github.com/user-attachments/assets/53c1456b-b182-4309-934e-f10b48e85c9b)
 
 ### Keuntungan Komputer:
 - **Efisiensi**: Komputer dapat melakukan tugas yang membutuhkan ratusan pekerja dalam waktu singkat.
@@ -64,6 +67,8 @@ Machine Learning penting karena memungkinkan komputer untuk melakukan tugas yang
 ### Tujuan Utama:
 - **Membuat Mesin Lebih Cerdas**: Tujuan ML adalah membuat mesin semakin mirip manusia dalam hal kecerdasan.
 - **Membantu Manusia**: Dengan mesin yang lebih cerdas, kita dapat menyelesaikan tugas-tugas yang lebih kompleks dengan lebih efisien.
+
+![image](https://github.com/user-attachments/assets/57d51a30-ad18-4b4d-bbd5-106b76ccfa69)
 
 ---
 
