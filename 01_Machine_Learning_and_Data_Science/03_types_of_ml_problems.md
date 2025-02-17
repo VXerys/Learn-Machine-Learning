@@ -25,6 +25,8 @@ Pembelajaran mesin (Machine Learning) adalah salah satu cabang ilmu yang paling 
 
 Langkah pertama dalam setiap proyek pembelajaran mesin adalah **mendefinisikan masalah** yang ingin diselesaikan. Pertanyaan kunci yang harus dijawab adalah: **Apa masalah yang ingin kita selesaikan?**
 
+![image](https://github.com/user-attachments/assets/66b98ae6-927f-4fc1-9be8-2b1149bcfdda)
+
 Namun, penting untuk diingat bahwa **pembelajaran mesin bukanlah solusi untuk setiap masalah**. Ada situasi di mana sistem berbasis instruksi sederhana (hand-coded instruction-based system) lebih efektif. Misalnya, jika Anda memiliki resep lengkap untuk membuat hidangan ayam favorit Anda, lebih baik menggunakan sistem sederhana daripada mencoba menggunakan pembelajaran mesin untuk menemukan langkah-langkahnya. 🍗
 
 **Kapan sebaiknya tidak menggunakan pembelajaran mesin?**
@@ -34,8 +36,12 @@ Namun, penting untuk diingat bahwa **pembelajaran mesin bukanlah solusi untuk se
 ---
 
 ## 🧩 Jenis-Jenis Masalah dalam Pembelajaran Mesin
+![image](https://github.com/user-attachments/assets/930e2de5-1cf5-4e99-acea-5cea0af8bc4e)
+
 
 ### 🎓 Pembelajaran Terawasi (Supervised Learning)
+
+![image](https://github.com/user-attachments/assets/66c14fbf-b502-467a-8d16-a84f770385a7)
 
 Pembelajaran terawasi adalah jenis pembelajaran mesin di mana kita memiliki **data dan label**. Algoritma pembelajaran mesin mencoba menggunakan data untuk memprediksi label. Jika prediksi salah, algoritma akan memperbaiki diri dan mencoba lagi. Proses ini disebut "terawasi" karena ada pengawasan dalam bentuk label yang benar.
 
@@ -43,7 +49,11 @@ Pembelajaran terawasi adalah jenis pembelajaran mesin di mana kita memiliki **da
 - **Klasifikasi:** Memprediksi apakah pasien memiliki penyakit jantung atau tidak berdasarkan rekam medis. Jika hanya ada dua opsi (misalnya, "ya" atau "tidak"), ini disebut **klasifikasi biner (binary classification)**. Jika ada lebih dari dua opsi, ini disebut **klasifikasi multi-kelas (multiclass classification)**.
 - **Regresi:** Memprediksi harga rumah berdasarkan jumlah kamar, lokasi, dan jumlah kamar mandi. Regresi melibatkan prediksi angka yang bersifat kontinu (bisa naik atau turun).
 
+![image](https://github.com/user-attachments/assets/7740020a-03dd-449b-b753-5f3827c0e662)
+
 ### 🌀 Pembelajaran Tidak Terawasi (Unsupervised Learning)
+
+![image](https://github.com/user-attachments/assets/49e81c5e-167c-4500-b1c0-e2969f9a0a61)
 
 Pembelajaran tidak terawasi melibatkan data **tanpa label**. Tujuannya adalah menemukan pola atau kelompok dalam data. Misalnya, Anda mungkin memiliki data pembelian pelanggan dan ingin mengelompokkan mereka berdasarkan minat mereka.
 
@@ -53,12 +63,17 @@ Pembelajaran tidak terawasi melibatkan data **tanpa label**. Tujuannya adalah me
 
 ### 🔄 Pembelajaran Transfer (Transfer Learning)
 
+![image](https://github.com/user-attachments/assets/2206143d-a58f-4799-b731-faa9619a67ec)
+
+
 Pembelajaran transfer memanfaatkan pengetahuan yang telah dipelajari oleh satu model pembelajaran mesin untuk diterapkan pada masalah lain. Misalnya, jika Anda memiliki model yang telah belajar mengenali jenis mobil, Anda dapat menyesuaikannya untuk mengenali jenis anjing.
 
 **Mengapa ini berharga?**  
 Melatih model dari awal memerlukan banyak sumber daya komputasi. Dengan pembelajaran transfer, Anda dapat menghemat waktu dan biaya dengan memanfaatkan model yang sudah ada.
 
 ### 🏆 Pembelajaran Penguatan (Reinforcement Learning)
+
+![image](https://github.com/user-attachments/assets/2c531cd8-0abb-48c8-921b-b9c0c1d24078)
 
 Pembelajaran penguatan melibatkan program komputer yang melakukan tindakan dalam ruang yang ditentukan dan diberi hadiah jika berhasil atau dihukum jika gagal. Contohnya adalah mengajari algoritma untuk bermain catur.
 
