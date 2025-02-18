@@ -11,11 +11,15 @@
 
 ## 🌟 Pendahuluan
 
+![image](https://github.com/user-attachments/assets/18e5204c-f231-49e7-9ed5-09c406effaf2)
+
 Pemodelan adalah salah satu tahap krusial dalam proses machine learning. Setelah data dibagi menjadi set pelatihan, validasi, dan pengujian, langkah selanjutnya adalah memilih, melatih, dan membandingkan model. Dalam dokumentasi ini, kita akan fokus pada langkah pertama, yaitu **memilih model**, serta beberapa pertimbangan penting dalam **melatih model**.
 
 ---
 
 ## 🤔 Memilih Model
+
+![image](https://github.com/user-attachments/assets/3d85330c-aca4-4132-a8e7-f19c4e126aab)
 
 ### 🧠 Jenis Model yang Tersedia
 Dalam machine learning, ada banyak model yang sudah dibangun sebelumnya yang dapat kita manfaatkan. Tugas utama kita adalah memahami **jenis algoritma** yang cocok untuk **jenis masalah** yang kita hadapi. Beberapa algoritma bekerja lebih baik pada jenis data tertentu dibandingkan yang lain.
@@ -33,6 +37,8 @@ Misalnya, jika kita bekerja pada masalah prediksi penyakit jantung, kita akan me
 
 ## 🏋️ Melatih Model
 
+![image](https://github.com/user-attachments/assets/678f4ed8-8f8b-46a4-9a87-90b2171e2452)
+
 ### 🎯 Tujuan Pelatihan
 Tujuan utama dalam melatih model adalah **menyelaraskan input dan output**. Misalnya, dalam masalah penyakit jantung, kita ingin model mempelajari pola dari fitur-fitur (input) untuk memprediksi target (output). Dalam notasi umum, input sering disebut sebagai **X** (data) dan output sebagai **Y** (label).
 
@@ -45,6 +51,8 @@ Untuk menghemat waktu, kita bisa memulai dengan **subset data** yang lebih kecil
 ---
 
 ## ⚙️ Pertimbangan dalam Pelatihan Model
+
+![image](https://github.com/user-attachments/assets/e5ff192d-c50d-4b9a-a79b-2bf68bfb94ed)
 
 ### 🔄 Proses Iteratif
 Machine learning adalah proses yang **iteratif**. Beberapa eksperimen mungkin tidak berhasil pada percobaan pertama, dan itu adalah hal yang wajar. Kuncinya adalah terus mencoba dan mengevaluasi hasilnya.
