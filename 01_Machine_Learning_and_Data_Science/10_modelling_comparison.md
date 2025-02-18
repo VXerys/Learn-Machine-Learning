@@ -23,9 +23,15 @@
 ---
 
 ## 🔍 Evaluasi Model pada Data Uji
+
+![image](https://github.com/user-attachments/assets/b4a64679-9cab-40f6-92b9-4025df7f4eb4)
+
 Setelah melakukan pelatihan dan penyetelan hiperparameter, langkah kritis adalah mengevaluasi model menggunakan **data uji** (test set). Data uji berperan sebagai simulasi dunia nyata untuk menguji kemampuan generalisasi model. 
 
 ### Mengapa Data Uji Penting?
+
+![image](https://github.com/user-attachments/assets/477f2a76-cfb6-4b8f-9049-212cbc581fc1)
+
 - **Indikator Generalisasi**: Data uji harus *belum pernah dilihat* oleh model selama pelatihan. Ini memastikan evaluasi objektif.  
 - **Akurasi yang Realistis**: Contoh: Akurasi 98% pada data latih vs. 96% pada data uji menunjukkan model masih stabil.  
 - **Tanda Bahaya**: Perbedaan signifikan (misal: 99% vs. 70%) mengindikasikan masalah seperti overfitting atau kebocoran data.
@@ -51,7 +57,13 @@ print(f"Akurasi Data Uji: {accuracy_score(y_test, prediksi)*100:.2f}%")
 ---
 
 ## ⚖️ Overfitting vs. Underfitting
+
+![image](https://github.com/user-attachments/assets/7be8e40f-9efe-4edb-b6ba-55ce5c27b6ea)
+
 ### Overfitting (Terlalu Sesuai)
+
+![image](https://github.com/user-attachments/assets/a504115f-7e1d-4640-bd92-4a339eb7a656)
+
 - **Ciri**: Model "menghafal" data latih, performa buruk pada data baru.  
 - **Penyebab**:  
   - Model terlalu kompleks (contoh: neural network dengan terlalu banyak lapisan).  
@@ -62,6 +74,9 @@ print(f"Akurasi Data Uji: {accuracy_score(y_test, prediksi)*100:.2f}%")
   - Kurangi kompleksitas model.
 
 ### Underfitting (Kurang Sesuai)
+
+![image](https://github.com/user-attachments/assets/27a6487a-c7ba-4af3-8445-80882a0d3a95)
+
 - **Ciri**: Model gagal menangkap pola dasar dalam data.  
 - **Penyebab**:  
   - Model terlalu sederhana (contoh: regresi linear untuk masalah non-linear).  
@@ -69,6 +84,9 @@ print(f"Akurasi Data Uji: {accuracy_score(y_test, prediksi)*100:.2f}%")
 - **Solusi**:  
   - Tingkatkan kompleksitas model (contoh: gunakan decision tree -> random forest).  
   - Lakukan feature engineering untuk mengekstrak pola lebih baik.
+
+ ![image](https://github.com/user-attachments/assets/7bb4406c-b664-4c66-8c81-2589330eccda)
+
 
 ![Overfitting vs Underfitting](https://miro.medium.com/v2/resize:fit:1400/1*_7OPgojau8hkiPUiHoGK_w.png)  
 *Ilustrasi: Model ideal berada di "Zona Goldilocks" (tidak terlalu sederhana atau kompleks).*
@@ -102,6 +120,9 @@ print(f"Akurasi Data Uji: {accuracy_score(y_test, prediksi)*100:.2f}%")
 ---
 
 ## 📊 Perbandingan Model
+
+![image](https://github.com/user-attachments/assets/13e189d8-19b8-49dd-bfad-7a43cc000ea3)
+
 ### Kriteria Perbandingan
 1. **Akurasi**: Metrik utama (presisi, recall, F1-score).  
 2. **Kecepatan Prediksi**: Penting untuk aplikasi real-time.  

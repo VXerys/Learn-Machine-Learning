@@ -17,6 +17,8 @@
 
 ## 🎯 Pendahuluan
 
+![image](https://github.com/user-attachments/assets/a5682032-d9a0-4193-b347-597d88e1f8cb)
+
 Setelah Anda puas dengan performa awal model Anda pada dataset pelatihan, langkah selanjutnya adalah mencoba meningkatkan performa tersebut. Proses ini dikenal sebagai **tuning model**. Seperti halnya menyetel mobil untuk gaya mengemudi yang berbeda, model machine learning juga dapat disetel untuk berbagai jenis data, khususnya data yang Anda miliki.
 
 Dalam dokumentasi ini, kita akan membahas secara mendalam tentang apa itu tuning model, parameter apa yang dapat disesuaikan, proses tuning, dan bagaimana membandingkan model yang berbeda. Mari kita mulai!
@@ -25,6 +27,8 @@ Dalam dokumentasi ini, kita akan membahas secara mendalam tentang apa itu tuning
 
 ## 🔧 Apa Itu Tuning Model?
 
+![image](https://github.com/user-attachments/assets/b373a8e4-98f3-4b24-bbe9-17468507ee3b)
+
 Tuning model adalah proses menyesuaikan **hyperparameter** dari model machine learning untuk meningkatkan performanya. Hyperparameter adalah parameter yang tidak dipelajari oleh model selama pelatihan, tetapi ditentukan sebelum proses pelatihan dimulai. Contoh hyperparameter termasuk jumlah pohon dalam Random Forest atau jumlah lapisan dalam Neural Network.
 
 Proses tuning biasanya dilakukan pada **dataset validasi**. Namun, jika Anda tidak memiliki dataset validasi karena cara Anda membagi data pelatihan, validasi, dan uji, tuning juga dapat dilakukan pada dataset pelatihan.
@@ -32,6 +36,8 @@ Proses tuning biasanya dilakukan pada **dataset validasi**. Namun, jika Anda tid
 ---
 
 ## 🎛️ Parameter yang Dapat Disesuaikan
+
+![image](https://github.com/user-attachments/assets/fbf9cb97-370e-4b72-ba21-2732a276433b)
 
 Setiap model machine learning memiliki hyperparameter yang berbeda yang dapat disesuaikan. Berikut adalah beberapa contoh:
 
@@ -43,6 +49,8 @@ Setiap model machine learning memiliki hyperparameter yang berbeda yang dapat di
 
 ### 🌡️ Analogi Oven
 Bayangkan hyperparameter seperti tombol pada oven. Jika Anda memasak ayam pada suhu 180°C selama satu jam dan hasilnya kurang matang, Anda bisa mencoba meningkatkan suhu menjadi 200°C untuk mendapatkan hasil yang lebih baik. Demikian pula, Anda dapat menyesuaikan hyperparameter model untuk meningkatkan performanya.
+
+![image](https://github.com/user-attachments/assets/52b0e3b3-5108-4331-8d1d-89c6c3918704)
 
 ---
 

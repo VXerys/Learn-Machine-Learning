@@ -15,6 +15,8 @@ Selamat datang di panduan lengkap untuk memulai proyek Data Science dan Machine 
 
 ## 💻 Mempersiapkan Komputer Anda
 
+![image](https://github.com/user-attachments/assets/279a1391-fe0f-4797-b541-2d1230d99d36)
+
 Sebelum memulai, pastikan komputer Anda siap untuk digunakan dalam proyek Data Science dan Machine Learning. Langkah pertama adalah menginstal **Anaconda**, yang akan menjadi fondasi utama untuk semua alat yang akan kita gunakan. Anaconda adalah seperti "toko perangkat keras" untuk Data Science dan Machine Learning, menyediakan semua alat yang diperlukan dalam satu paket.
 
 ### Langkah-langkah:
@@ -22,6 +24,8 @@ Sebelum memulai, pastikan komputer Anda siap untuk digunakan dalam proyek Data S
 2. **Verifikasi Instalasi**: Setelah instalasi selesai, buka terminal atau command prompt dan ketik `conda --version` untuk memastikan Anaconda telah terinstal dengan benar.
 
 ## 🐍 Mengenal Anaconda
+
+![image](https://github.com/user-attachments/assets/f82c1be6-ee20-4c72-807e-1827da7ac481)
 
 Anaconda adalah distribusi Python dan R yang dirancang khusus untuk Data Science dan Machine Learning. Dengan Anaconda, Anda dapat mengelola paket, lingkungan, dan dependensi dengan mudah. Anaconda juga menyertakan **Jupyter Notebook**, yang akan menjadi alat utama kita untuk menulis dan menjalankan kode Python.
 
@@ -31,6 +35,8 @@ Anaconda adalah distribusi Python dan R yang dirancang khusus untuk Data Science
 - **Jupyter Notebook**: Alat interaktif yang memungkinkan Anda menulis dan menjalankan kode, serta menampilkan hasil secara visual.
 
 ## 🛠️ Alat-Alat Penting dalam Data Science
+
+![image](https://github.com/user-attachments/assets/81745bf5-7e38-4836-a3e4-ef2c07cf7dc4)
 
 Berikut adalah beberapa alat penting yang akan kita gunakan dalam proyek Data Science dan Machine Learning:
 
