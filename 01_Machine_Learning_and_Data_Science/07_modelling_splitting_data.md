@@ -25,6 +25,9 @@
 ---
 
 ## 🚀 Pengantar
+
+![image](https://github.com/user-attachments/assets/497fc045-caf7-4a45-a203-7eb7adc88b66)
+
 Pembagian data menjadi **training**, **validation**, dan **test set** adalah fondasi kritis dalam membangun model _machine learning_ yang andal. Konsep ini memastikan model tidak hanya menghafal data (_overfitting_), tetapi juga mampu beradaptasi dengan data baru. Bayangkan ini seperti persiapan ujian:  
 - **Materi kuliah** (training set) untuk memahami konsep.  
 - **Ujian latihan** (validation set) untuk mengevaluasi pemahaman.  
@@ -38,6 +41,9 @@ Model yang diuji hanya pada data latihan ibarat siswa yang menghafal jawaban tan
 ---
 
 ## 📊 Konsep Tiga Set Data
+
+![image](https://github.com/user-attachments/assets/e47a0342-cfb1-4353-a3f1-6717a291ec02)
+
 ### 🎯 Training Set
 - **Fungsi**: Melatih model untuk mengenali pola.  
 - **Contoh**: 70% data pasien penyakit jantung digunakan untuk melatih model.  
@@ -51,7 +57,10 @@ Model yang diuji hanya pada data latihan ibarat siswa yang menghafal jawaban tan
 ### 📝 Test Set
 - **Fungsi**: Evaluasi akhir performa model sebelum deploy.  
 - **Contoh**: 15% data yang **tidak pernah** dilihat selama pelatihan atau tuning.  
-- **Analog**: Ujian akhir yang soalnya benar-benar baru.  
+- **Analog**: Ujian akhir yang soalnya benar-benar baru.
+
+![image](https://github.com/user-attachments/assets/709bc3f6-9af6-4c45-abd2-591af2c0a857)
+
 
 [🔙 Kembali ke Daftar Isi](#daftar-isi)
 
@@ -79,6 +88,9 @@ Model yang diuji hanya pada data latihan ibarat siswa yang menghafal jawaban tan
 ---
 
 ## 💡 Contoh Praktis: Prediksi Penyakit Jantung
+
+![image](https://github.com/user-attachments/assets/fea22969-2ff1-426b-ae5d-6352932e36dc)
+
 ### Langkah 1: Pembagian Data
 - **100 pasien** → 70 training, 15 validation, 15 testing.  
 - **Pisahkan fitur (X)** dan **target (y)** sebelum pembagian.  
