@@ -18,13 +18,19 @@
 
 ## 🎯 Pendahuluan
 
+![image](https://github.com/user-attachments/assets/c37f6657-e343-4068-ae4f-ebab63ee78ba)
+
 Proses machine learning (ML) adalah serangkaian langkah yang saling terkait dan bersifat iteratif. Artinya, kita mungkin perlu mengulangi beberapa langkah berkali-kali untuk mencapai hasil yang optimal. Dalam dokumentasi ini, kita akan membahas secara mendetail setiap langkah dalam proses ML, dengan fokus khusus pada **eksperimen** sebagai langkah kunci untuk meningkatkan performa model.
 
 ---
 
 ## 🔄 Langkah-Langkah Proses Machine Learning
 
+![image](https://github.com/user-attachments/assets/a122744c-f557-43de-9681-1649ad625a15)
+
 ### 🧩 Langkah 1: Definisi Masalah
+
+![image](https://github.com/user-attachments/assets/8ec95eb0-ff5a-4a1b-b43b-d150f1449c2d)
 
 Sebelum memulai proyek ML, penting untuk **mendefinisikan masalah** dengan jelas. Ini melibatkan pemahaman tentang tujuan proyek, pertanyaan yang ingin dijawab, dan metrik yang akan digunakan untuk mengukur keberhasilan. Misalnya, jika kita memiliki dataset tentang penjualan, kita mungkin ingin memprediksi penjualan di masa depan berdasarkan data historis.
 
@@ -36,6 +42,8 @@ Sebelum memulai proyek ML, penting untuk **mendefinisikan masalah** dengan jelas
 [🔝 Kembali ke Daftar Isi](#-daftar-isi)
 
 ### 📊 Langkah 2: Analisis Data
+
+![image](https://github.com/user-attachments/assets/f0d29071-7d24-4806-900c-8ca06aa0011c)
 
 Setelah masalah didefinisikan, langkah berikutnya adalah **menganalisis data**. Ini melibatkan eksplorasi dataset untuk memahami struktur, pola, dan potensi masalah seperti data yang hilang atau outlier. Analisis data juga membantu dalam memilih fitur yang relevan untuk model.
 
@@ -66,6 +74,8 @@ Pada tahap ini, kita **menentukan metrik evaluasi** yang akan digunakan untuk me
 
 ### 🤖 Langkah 5: Pemodelan
 
+![image](https://github.com/user-attachments/assets/90eebed0-683c-4d34-9d1f-7f699d3d704f)
+
 Pada tahap ini, kita **membangun model** menggunakan algoritma ML yang sesuai. Ini melibatkan pelatihan model pada data historis dan validasi menggunakan data yang belum pernah dilihat sebelumnya.
 
 **Contoh:**  
@@ -75,6 +85,8 @@ Pada tahap ini, kita **membangun model** menggunakan algoritma ML yang sesuai. I
 [🔝 Kembali ke Daftar Isi](#-daftar-isi)
 
 ### 🧪 Langkah 6: Eksperimen
+
+![image](https://github.com/user-attachments/assets/08c0819a-94df-417f-9aaf-328bd7d1be22)
 
 **Eksperimen** adalah langkah kritis dalam proses ML. Ini melibatkan mencoba berbagai pendekatan untuk meningkatkan performa model, seperti menggunakan algoritma yang berbeda, mengubah parameter, atau menyesuaikan fitur.
 
@@ -88,6 +100,8 @@ Pada tahap ini, kita **membangun model** menggunakan algoritma ML yang sesuai. I
 ---
 
 ## 🛠️ Praktik dan Penerapan
+
+![image](https://github.com/user-attachments/assets/1548fa2c-1bd6-49da-8c55-e3b05e85150c)
 
 Untuk menguasai proses ML, penting untuk **belajar dengan praktik**. Ini melibatkan penerapan kerangka kerja yang telah kita pelajari pada proyek nyata. Dengan berlatih, kita akan semakin mahir dalam memilih alat dan teknik yang tepat untuk setiap langkah.
 
